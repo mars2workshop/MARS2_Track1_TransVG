@@ -24,8 +24,8 @@ project_root/
 ├── images/                                    # Folder with images
 │   └── *.jpg / *.png
 ├── VG-RS-question.json                        # Input questions and image paths
-├── TransVG_VG_predictions.json                   # Output predictions (bounding boxes xywh)
-└── TransVG_VG_predictions_final.json             # Output predictions (bounding boxes x1y1x2y2)
+├── TransVG_predictions.json                   # Output predictions (bounding boxes xywh)
+└── TransVG_predictions_final.json             # Output predictions (bounding boxes x1y1x2y2)
 ```
 
 ---
